@@ -12,13 +12,13 @@
 
 - 💬 Pergunte-me sobre **Excel, SQL, modelagem de dados, Power BI e Amazon QuickSight**
 
-- 📫 Como entrar em contato comigo: **neres.julianosouzacosta@gmail.com**
-
 - ⚡ Curiosidade: **🥋 Disciplina de faixa azul, mentalidade de conquistas e evolução 🥇**
+
+- 📫 Como entrar em contato comigo: **neres.julianosouzacosta@gmail.com**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: **[https://github.com/J-neres](https://github.com/J-neres)**
 
-- 💼 Conheça minhas experiências: **[Juliano Neres - Currículo](https://drive.google.com/file/d/1o207HE0FJUhTleDlzU8f4ImpJH53cAxU/view?usp=sharing)**
+- 💼 Conheça minhas experiências: **[Juliano Neres - Currículo](https://drive.google.com/file/d/1ntwVN4eG5WYhRLIR-l6wcSDxVB76NbM8/view?usp=drive_link)**
 
 
 <h3 align="left">Connect with me:</h3>
