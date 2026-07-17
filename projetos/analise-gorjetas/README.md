@@ -69,7 +69,7 @@ Este projeto tem como finalidade fortalecer minhas habilidades em **Análise de 
 
 ## 📷 Dashboard
 
-![Dashboard](https://drive.google.com/file/d/1VGbALO2z8NjFYQzm5APsFyzC4ZEm5r8h/view?usp=sharing)
+![Dashboard](https://drive.google.com/uc?export=view&id=1VGbALO2z8NjFYQzm5APsFyzC4ZEm5r8h)
 
 ---
 
